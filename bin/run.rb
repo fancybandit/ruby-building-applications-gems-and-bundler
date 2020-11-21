@@ -1,1 +1,5 @@
-# require the environment file
+
+# Require the environment file
+
+require_relative '../config/environment.rb'
+
